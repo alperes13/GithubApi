@@ -1,0 +1,25 @@
+{
+  "name": "githubapi-project",
+  "version": "1.0.0",
+  "description": "Mini Javascript project with Github Api.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alperes13/GithubApi.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Async&Await"
+  ],
+  "author": "Alper Eş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alperes13/GithubApi/issues"
+  },
+  "homepage": "https://github.com/alperes13/GithubApi#readme"
+  
+  
+}
